@@ -1,5 +1,0 @@
-package com.wipro.project.entity.repository;
-
-public interface CustomerRepository {
-
-}
