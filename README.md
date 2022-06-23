@@ -1,2 +1,1 @@
-"# diptoprava" 
 "# group1" 
